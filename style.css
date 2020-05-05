@@ -1,0 +1,83 @@
+#PARA {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    text-align: justify;
+    background-color: rgb(247, 248, 250);
+    color: grey;
+    padding-left: 95px;
+    padding-right: 95px;
+}
+.image {
+    margin: auto;
+    align-self: center;
+}
+
+#TICKLE {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    color: white;
+    text-align: center;
+    background-color: rgba(49, 109, 195);
+}
+#menu {
+    background-color: rgb(247, 248, 250);
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#header {
+    background-color: rgba(49, 109, 195);
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+   
+}
+
+#nav{
+    margin-left: 5px;
+    margin-right: 1px;
+    padding-right: 19px;
+    padding-left: 10px;
+    border-radius: 12px;
+    background-color : rgba(49, 109, 195);
+    color: white;
+    border: none;
+    font-size: 15px;
+    align-self: center;
+    cursor: pointer;
+}
+
+.main {
+    color: rgba(0, 102, 24) ;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(0, 102, 24);
+    cursor: pointer;
+}
+
+.news{
+    width: 100%;
+    background-color:  rgb(241, 241, 241) ;
+    margin-right: 50;
+    padding-left: 10;
+}
+
+#heading{
+    font-size: large;
+    color:  rgba(49, 109, 195);
+    font-family: serif;
+    font-style: italic;
+    font-weight: 1000;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.footer {
+    color: white;
+    background-color: rgba(37, 39, 46);
+    margin-top: 30px;
+    text-align: center;
+}
